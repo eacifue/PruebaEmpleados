@@ -1,0 +1,6 @@
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.DT\bin\Debug\MG.Empleados.DT.dll
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.DT\bin\Debug\MG.Empleados.DT.pdb
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.DT\obj\Debug\MG.Empleados.DT.csprojAssemblyReference.cache
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.DT\obj\Debug\MG.Empleados.DT.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.DT\obj\Debug\MG.Empleados.DT.dll
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.DT\obj\Debug\MG.Empleados.DT.pdb

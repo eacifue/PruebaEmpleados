@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Consulta Empleados";
+}
+
+
+
+<div class="row">
+    <div class="col-md-8">
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-header">Consulta de Empleados</h3>
+
+            <div class="form-group input-group">
+                <div class="col-md-8">
+                    <span class="input-group-btn">
+                        <input id="txtEmpleado" type="text" class="form-control" placeholder="Id Empleado" />
+                        <button class="btn btn-primary" id="btnBuscar">
+                            Buscar <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </span>
+                </div>
+            </div>
+
+        </div>
+        <div class="panel-body">
+
+
+            <div class="table-responsive">
+                <table id="tblEmpleados" class="table table-striped table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th scope="col">Id</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Contract Type Name</th>
+                            <th scope="col">Role Id</th>
+                            <th scope="col">Role Name</th>
+                            <th scope="col">Role Description</th>
+                            <th scope="col">Hourly Salary</th>
+                            <th scope="col">Monthly Salary</th>
+                            <th scope="col">Yearly Salary</th>
+
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<environment include="Development">
+
+    <script src="~/Scripts/Views/Empleados.js"></script>
+</environment>

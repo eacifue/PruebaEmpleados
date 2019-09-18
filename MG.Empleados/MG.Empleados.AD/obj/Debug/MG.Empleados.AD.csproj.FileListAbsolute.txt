@@ -1,0 +1,9 @@
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.AD\bin\Debug\MG.Empleados.AD.dll
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.AD\bin\Debug\MG.Empleados.AD.pdb
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.AD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.AD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.AD\obj\Debug\MG.Empleados.AD.csprojAssemblyReference.cache
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.AD\obj\Debug\MG.Empleados.AD.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.AD\obj\Debug\MG.Empleados.AD.csproj.CopyComplete
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.AD\obj\Debug\MG.Empleados.AD.dll
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.AD\obj\Debug\MG.Empleados.AD.pdb

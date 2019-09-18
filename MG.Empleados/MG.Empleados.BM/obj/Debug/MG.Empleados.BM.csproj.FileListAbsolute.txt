@@ -1,0 +1,13 @@
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\bin\Debug\MG.Empleados.BM.dll
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\bin\Debug\MG.Empleados.BM.pdb
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\bin\Debug\MG.Empleados.AD.dll
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\bin\Debug\MG.Empleados.DT.dll
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\bin\Debug\MG.Empleados.AD.pdb
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\bin\Debug\MG.Empleados.DT.pdb
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\obj\Debug\MG.Empleados.BM.csprojAssemblyReference.cache
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\obj\Debug\MG.Empleados.BM.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\obj\Debug\MG.Empleados.BM.csproj.CopyComplete
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\obj\Debug\MG.Empleados.BM.dll
+C:\Users\Eric\source\repos\MG.Empleados.AD\MG.Empleados.BM\obj\Debug\MG.Empleados.BM.pdb
